@@ -11,3 +11,4 @@ VS Code, Google, GitHub
 ## 📌 Breve descrição da página desenvolvida.
 Criamos um site html, com uma breve descrição sobre o filme, com algumas informações e sinopse do filme e também um link redresionamento, para melhores a mais descritivas informações.
 ## Site do filme
+http://127.0.0.1:5500/projeto-filme/index.html
