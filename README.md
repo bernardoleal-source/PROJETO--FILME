@@ -10,3 +10,4 @@ Aplicação dos aprendizados sobre o html.
 VS Code, Google, GitHub
 ## 📌 Breve descrição da página desenvolvida.
 Criamos um site html, com uma breve descrição sobre o filme, com algumas informações e sinopse do filme e também um link redresionamento, para melhores a mais descritivas informações.
+## Site do filme
